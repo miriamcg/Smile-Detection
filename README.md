@@ -6,3 +6,5 @@ Prototipado de detección de sonrisa que según la ausencia de esta o no introdu
 
 Se recomienda para su uso cambiar la ruta del modelo detector de sonrisa por la que usted tenga en su ordenador.
 
+![Smile Detection](https://github.com/miriamcg/Smile-Detection/blob/master/smile.gif)
+
